@@ -18,22 +18,22 @@
     {
       "shortDescription": "Architectural design of a farm house retreat on the outskirts of Bhilwara.",
       "coverImage": "images/projects/peace-farm-house-exterior/cover.jpg",
-      "area": "",
+      "area": "12,000 Sq.ft.",
       "featured": false,
       "secondaryCategories": [],
       "status": "Completed",
       "location": "Bhilwara, Rajasthan",
       "categoryLabel": "Architecture",
-      "title": "Peace Farm House (Exterior)",
+      "title": "Peace Farm House",
       "images": [
         "images/projects/peace-farm-house-exterior/1.jpg",
         "images/projects/peace-farm-house-exterior/2.jpg",
         "images/projects/peace-farm-house-exterior/3.jpg"
       ],
       "type": "Farm House",
-      "id": "peace-farm-house-exterior",
+      "id": "Peace-Farm-House",
       "description": "Architectural design of a farm house retreat on the outskirts of Bhilwara.",
-      "year": 2025,
+      "year": 2019,
       "category": "architecture"
     },
     {
@@ -87,33 +87,33 @@
       "status": "Completed",
       "location": "Bhilwara, Rajasthan",
       "categoryLabel": "Architecture",
-      "title": "Jain Residence – Abhishek (Exterior)",
+      "title": "Royal Parinay – Wedding Collection",
       "images": [
         "images/projects/jain-abhishek-exterior/1.jpg",
         "images/projects/jain-abhishek-exterior/2.jpg"
       ],
-      "type": "Private Residence",
+      "type": "Showroom",
       "id": "jain-abhishek-exterior",
       "description": "Exterior elevation and facade design for the Jain family residence.",
-      "year": 2025,
+      "year": 2021,
       "category": "architecture"
     },
     {
       "shortDescription": "Residential architecture for the Sisodiya family.",
       "coverImage": "images/projects/sisodiya-pushpendra/cover.jpg",
-      "area": "",
-      "featured": false,
+      "area": "2,000 Sq.ft.",
+      "featured": true,
       "secondaryCategories": [],
       "status": "Completed",
       "location": "Bhilwara, Rajasthan",
       "categoryLabel": "Architecture",
-      "title": "Sisodiya Residence – Pushpendra",
+      "title": "Sisodiya Residence – Pushpendra Ji",
       "images": [
         "images/projects/sisodiya-pushpendra/1.jpg",
         "images/projects/sisodiya-pushpendra/2.jpg"
       ],
       "type": "Private Residence",
-      "id": "sisodiya-pushpendra",
+      "id": "Sisodiya-Pushpendra",
       "description": "Residential architecture for the Sisodiya family.",
       "year": 2025,
       "category": "architecture"
@@ -121,13 +121,13 @@
     {
       "shortDescription": "Modern residential design for the Bansal family in Bhilwara.",
       "coverImage": "images/projects/bansal-residence/cover.jpg",
-      "area": "",
-      "featured": false,
+      "area": "14,000 Sq.ft.",
+      "featured": true,
       "secondaryCategories": [],
-      "status": "Completed",
-      "location": "Bhilwara, Rajasthan",
+      "status": "Running Projects",
+      "location": "Love Garden, Bhilwara, Rajasthan",
       "categoryLabel": "Architecture",
-      "title": "Bansal Residence",
+      "title": "Bansal Commercial Complex ",
       "images": [
         "images/projects/bansal-residence/1.jpg",
         "images/projects/bansal-residence/2.jpg"
@@ -141,13 +141,13 @@
     {
       "shortDescription": "Contemporary residential architecture for a Bhilwara family.",
       "coverImage": "images/projects/mohib-residence/cover.jpg",
-      "area": "",
+      "area": "3,000 Sq.ft.",
       "featured": false,
       "secondaryCategories": [],
-      "status": "Completed",
+      "status": "Running Projects",
       "location": "Bhilwara, Rajasthan",
       "categoryLabel": "Architecture",
-      "title": "Mohib Residence",
+      "title": "Mohib Residency",
       "images": [
         "images/projects/mohib-residence/1.jpg",
         "images/projects/mohib-residence/2.jpg"
@@ -161,17 +161,17 @@
     {
       "shortDescription": "Architectural design for a private residence in Bhilwara.",
       "coverImage": "images/projects/mansingha-residence/cover.jpg",
-      "area": "",
+      "area": "8,000 Sq.ft.",
       "featured": false,
       "secondaryCategories": [],
       "status": "Completed",
       "location": "Bhilwara, Rajasthan",
       "categoryLabel": "Architecture",
-      "title": "Mansingha Residence",
+      "title": "Sharda Syncotex - Manoj Ji Mansingha ",
       "images": [
         "images/projects/mansingha-residence/1.jpg"
       ],
-      "type": "Private Residence",
+      "type": "Private Office",
       "id": "mansingha-residence",
       "description": "Architectural design for a private residence in Bhilwara.",
       "year": 2025,
@@ -180,7 +180,7 @@
     {
       "shortDescription": "Bungalow design for the Agarwal family in Bhilwara.",
       "coverImage": "images/projects/agarwal-bungalow/cover.jpg",
-      "area": "",
+      "area": "7,000 Sq.ft.",
       "featured": false,
       "secondaryCategories": [],
       "status": "Completed",
@@ -205,7 +205,7 @@
       "status": "Completed",
       "location": "Bhilwara, Rajasthan",
       "categoryLabel": "Architecture",
-      "title": "Jain Residence – Lokesh",
+      "title": "Rajasthani Havelli",
       "images": [
         "images/projects/jain-lokesh/1.jpg"
       ],
@@ -224,7 +224,7 @@
       "status": "Completed",
       "location": "Bhilwara, Rajasthan",
       "categoryLabel": "Architecture",
-      "title": "Jain Residence – Pushpendra (Exterior)",
+      "title": "Jain Residence – Pushpendra ji",
       "images": [
         "images/projects/jain-pushpendra-exterior/1.jpg"
       ],
