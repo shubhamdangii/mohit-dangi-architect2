@@ -300,6 +300,21 @@
       "category": "interior"
     },
     {
+      "shortDescription": "Architectural design for a private residence in Bhilwara.\n",
+      "coverImage": "/images/projects/img-20260708-wa0050.jpg",
+      "area": "1,500",
+      "featured": false,
+      "status": "Running",
+      "location": "Asind, Rajasthan",
+      "categoryLabel": "Architecture",
+      "title": "Naveen Ji Mewara",
+      "type": "Private Residence",
+      "id": "Mewara-House",
+      "description": "Architectural design for a private residence in Bhilwara.\n",
+      "year": 2026,
+      "category": "architecture"
+    },
+    {
       "shortDescription": "Interior design project completed by Mohit Dangi Architect.",
       "coverImage": "images/projects/jain-residence-pushpendra/cover.jpg",
       "area": "",
@@ -518,21 +533,6 @@
       "description": "A 280 sq ft courtyard planning project for Rajnesh Ji's private residence in Kholpur, Rajasthan. The design transforms the central courtyard into a calm, functional outdoor space — integrating planting, paving, and seating that respond to the residential context and Rajasthan's climate.",
       "year": 2020,
       "category": "landscaping"
-    },
-    {
-      "shortDescription": "Architectural design for a private residence in Bhilwara.\n",
-      "coverImage": "/images/projects/img-20260708-wa0050.jpg",
-      "area": "1,500",
-      "featured": false,
-      "status": "Running",
-      "location": "Asind, Rajasthan",
-      "categoryLabel": "Architecture",
-      "title": "Naveen Ji Mewara",
-      "type": "Private Residence",
-      "id": "Mewara-House",
-      "description": "Architectural design for a private residence in Bhilwara.\n",
-      "year": 2026,
-      "category": "architecture"
     }
   ]
 }
