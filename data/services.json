@@ -15,13 +15,6 @@
       "isProjectCategory": true
     },
     {
-      "id": "exterior",
-      "name": "Exterior Design",
-      "shortDescription": "Facades and elevations with character.",
-      "description": "Facade design, elevation development, material studies, and exterior detailing. Whether refreshing an existing structure or designing a new one, the exterior is treated as the building's first conversation with the world.",
-      "isProjectCategory": false
-    },
-    {
       "id": "landscaping",
       "name": "Landscaping",
       "shortDescription": "Outdoors that complete the architecture.",
@@ -34,13 +27,6 @@
       "shortDescription": "Townships, campuses, and large developments.",
       "description": "Master planning for residential townships, institutional campuses, and mixed-use developments. Organized around community life, climate, and the long arc of time — from concept through phased delivery.",
       "isProjectCategory": true
-    },
-    {
-      "id": "3d-modelling",
-      "name": "3D Modelling & Rendering",
-      "shortDescription": "Photoreal visualization, before brick is laid.",
-      "description": "High-quality 3D models and photorealistic renderings that let clients walk through their project before construction begins. Useful for client approvals, marketing, and design validation.",
-      "isProjectCategory": false
     },
     {
       "id": "vaastu",
