@@ -1,9 +1,7 @@
 {
   "studio": {
-    "name": "Mohit Dangi Architect",
+    "founded": 2020,
     "shortName": "M D A",
-    "tagline": "Recognizing the need is the primary condition for architects and planners.",
-    "taglineAttribution": "— Mohit Dangi",
     "philosophyQuotes": [
       {
         "quote": "Architecture is the art of how to waste space.",
@@ -26,6 +24,12 @@
         "author": "— Louis Kahn"
       }
     ],
+    "founderTitle": "Principal Architect",
+    "name": "Mohit Dangi Architect",
+    "tagline": "Recognizing the need is the primary condition for architects and planners.",
+    "founder": "Mohit Dangi",
+    "taglineAttribution": "— Mohit Dangi",
+    "projectsCompleted": "200+",
     "heroTitles": [
       "Recognizing the need is the <em>primary condition</em> for architects and planners.",
       "Architecture begins where <em>engineering ends</em>.",
@@ -33,28 +37,24 @@
       "Design is not just what it looks like. Design is <em>how it works</em>.",
       "Every great design begins with an even <em>better story</em>."
     ],
-    "founder": "Mohit Dangi",
-    "founderTitle": "Principal Architect",
-    "founded": 2020,
-    "yearsInPractice": "6+",
-    "projectsCompleted": "200+",
-    "location": "Bhilwara, Rajasthan"
+    "location": "India",
+    "yearsInPractice": "6+"
   },
   "contact": {
+    "pincode": "311001",
+    "phone1": "+91 83027 06692",
+    "phone2": "+91 92525 17172",
+    "phone2Raw": "919252517172",
+    "phone1Raw": "918302706692",
     "addressLine1": "Shop No - 4, Charbuja Tower",
     "addressLine2": "Sirki Mohalla, Sanjay Colony",
     "city": "Bhilwara",
     "state": "Rajasthan",
-    "pincode": "311001",
     "country": "India",
-    "phone1": "+91 83027 06692",
-    "phone1Raw": "918302706692",
-    "phone1IsWhatsApp": true,
-    "phone2": "+91 92525 17172",
-    "phone2Raw": "919252517172",
+    "mapsUrl": "https://maps.app.goo.gl/EoG9yQwAbsTN1HG3A",
     "email": "mdarchitects.connect@gmail.com",
     "workingHours": "Monday to Saturday, 10:00 AM – 7:00 PM",
-    "mapsUrl": "https://maps.app.goo.gl/EoG9yQwAbsTN1HG3A"
+    "phone1IsWhatsApp": true
   },
   "social": {
     "instagram": "https://instagram.com/mohitdangi.architect",
