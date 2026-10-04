@@ -87,26 +87,6 @@
       ]
     },
     {
-      "id": "sample-project",
-      "title": "Sample Project",
-      "category": "architecture",
-      "categoryLabel": "Architecture",
-      "year": 2026,
-      "location": "Bhilwara, Rajasthan",
-      "type": "Private Residence",
-      "area": "2500 sq ft",
-      "status": "Completed",
-      "featured": false,
-      "shortDescription": "A modern residence.",
-      "description": "Full description here.",
-      "coverImage": "images/projects/sample-project/cover.jpg",
-      "images": [
-        "images/projects/sample-project/1.jpg",
-        "images/projects/sample-project/2.jpg",
-        "images/projects/sample-project/cover.jpg"
-      ]
-    },
-    {
       "id": "bafna-residence",
       "title": "Bafna Residence",
       "category": "architecture",
@@ -266,7 +246,6 @@
     },
     {
       "id": "jain-pushpendra-exterior",
-      "title": "Jain Residence – Pushpendra (Exterior)",
       "title": "Jain Residence \u2013 Pushpendra (Exterior)",
       "category": "architecture",
       "categoryLabel": "Architecture",
