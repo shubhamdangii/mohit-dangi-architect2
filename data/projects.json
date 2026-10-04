@@ -9,7 +9,7 @@
       "status": "Completed",
       "location": "Bhilwara, Rajasthan",
       "categoryLabel": "Architecture",
-      "title": "Soni House (Exterior)",
+      "title": "Bharatpur - Ketan ji Soni House ",
       "images": [
         "images/projects/soni-house-exterior/1.jpg",
         "images/projects/soni-house-exterior/2.jpg",
@@ -17,7 +17,7 @@
         "images/projects/soni-house-exterior/4.jpg"
       ],
       "type": "Private Residence",
-      "id": "Bharatpur - Ketan ji Soni-house-exterior",
+      "id": "Soni-house-exterior",
       "description": "Exterior architecture and elevations for the Soni family residence.",
       "year": 2025,
       "category": "architecture"
