@@ -129,7 +129,7 @@
     },
     {
       "id": "jain-abhishek-exterior",
-      "title": "Jain Residence – Abhishek (Exterior)",
+      "title": "Jain Residence \u2013 Abhishek (Exterior)",
       "category": "architecture",
       "categoryLabel": "Architecture",
       "secondaryCategories": [],
@@ -149,7 +149,7 @@
     },
     {
       "id": "sisodiya-pushpendra",
-      "title": "Sisodiya Residence – Pushpendra",
+      "title": "Sisodiya Residence \u2013 Pushpendra",
       "category": "architecture",
       "categoryLabel": "Architecture",
       "secondaryCategories": [],
@@ -247,7 +247,7 @@
     },
     {
       "id": "jain-lokesh",
-      "title": "Jain Residence – Lokesh",
+      "title": "Jain Residence \u2013 Lokesh",
       "category": "architecture",
       "categoryLabel": "Architecture",
       "secondaryCategories": [],
@@ -267,6 +267,7 @@
     {
       "id": "jain-pushpendra-exterior",
       "title": "Jain Residence – Pushpendra (Exterior)",
+      "title": "Jain Residence \u2013 Pushpendra (Exterior)",
       "category": "architecture",
       "categoryLabel": "Architecture",
       "secondaryCategories": [],
@@ -343,7 +344,7 @@
     },
     {
       "id": "jain-residence-pushpendra",
-      "title": "Jain Residence – Pushpendra",
+      "title": "Jain Residence \u2013 Pushpendra",
       "category": "interior",
       "categoryLabel": "Interior",
       "secondaryCategories": [],
@@ -369,7 +370,7 @@
     },
     {
       "id": "jain-residence-jitendra",
-      "title": "Jain Residence – Jitendra",
+      "title": "Jain Residence \u2013 Jitendra",
       "category": "interior",
       "categoryLabel": "Interior",
       "secondaryCategories": [],
@@ -394,7 +395,7 @@
     },
     {
       "id": "jain-residence-abhishek",
-      "title": "Jain Residence – Abhishek",
+      "title": "Jain Residence \u2013 Abhishek",
       "category": "interior",
       "categoryLabel": "Interior",
       "secondaryCategories": [],
@@ -506,7 +507,7 @@
     },
     {
       "id": "landscape-brijesh-jaipur",
-      "title": "Outer Seating — Brijesh Residence",
+      "title": "Outer Seating \u2014 Brijesh Residence",
       "category": "landscaping",
       "categoryLabel": "Landscaping",
       "secondaryCategories": [],
@@ -525,7 +526,7 @@
     },
     {
       "id": "landscape-achint-jain-pool",
-      "title": "Pool Area — Achint Jain Residence",
+      "title": "Pool Area \u2014 Achint Jain Residence",
       "category": "landscaping",
       "categoryLabel": "Landscaping",
       "secondaryCategories": [],
@@ -544,7 +545,7 @@
     },
     {
       "id": "landscape-rajnesh-kholpur",
-      "title": "Courtyard Planning — Rajnesh Residence",
+      "title": "Courtyard Planning \u2014 Rajnesh Residence",
       "category": "landscaping",
       "categoryLabel": "Landscaping",
       "secondaryCategories": [],
@@ -555,7 +556,7 @@
       "status": "Completed",
       "featured": true,
       "shortDescription": "Courtyard landscape planning for Rajnesh Ji's private residence in Kholpur, creating a serene and functional outdoor gathering space.",
-      "description": "A 280 sq ft courtyard planning project for Rajnesh Ji's private residence in Kholpur, Rajasthan. The design transforms the central courtyard into a calm, functional outdoor space — integrating planting, paving, and seating that respond to the residential context and Rajasthan's climate.",
+      "description": "A 280 sq ft courtyard planning project for Rajnesh Ji's private residence in Kholpur, Rajasthan. The design transforms the central courtyard into a calm, functional outdoor space \u2014 integrating planting, paving, and seating that respond to the residential context and Rajasthan's climate.",
       "coverImage": "images/projects/landscape-rajnesh-kholpur/cover.jpg",
       "images": [
         "images/projects/landscape-rajnesh-kholpur/1.jpg"
