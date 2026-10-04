@@ -7,6 +7,7 @@ public_folder: "/images/projects"
 
 site_url: https://mdarchitects.co.in
 display_url: https://mdarchitects.co.in
+logo_url: /images/logo/logo.png
 
 locale: "en"
 
@@ -23,6 +24,7 @@ collections:
             name: "projects"
             widget: "list"
             summary: "{{title}} ({{category}})"
+            collapsed: true
             fields:
               - {label: "Project ID (unique, lowercase, dashes only, e.g. sharma-bungalow)", name: "id", widget: "string"}
               - {label: "Title", name: "title", widget: "string"}
@@ -38,15 +40,16 @@ collections:
               - {label: "Year", name: "year", widget: "number", value_type: "int"}
               - {label: "Location", name: "location", widget: "string"}
               - {label: "Type (e.g. Private Residence)", name: "type", widget: "string"}
-              - {label: "Area (e.g. 2500 sq ft)", name: "area", widget: "string", required: false}
-              - {label: "Status", name: "status", widget: "string", default: "Completed"}
-              - {label: "Show on Home Page?", name: "featured", widget: "boolean", default: false}
-              - {label: "Short Description", name: "shortDescription", widget: "text"}
-              - {label: "Full Description", name: "description", widget: "text"}
-              - {label: "Cover Photo (main photo)", name: "coverImage", widget: "image"}
+              - {label: "Area (e.g. 2500 sq ft)", name: "area", widget: "string", required: false, hint: "Leave blank if not applicable"}
+              - {label: "Status", name: "status", widget: "string", default: "Completed", hint: "e.g. Completed, Ongoing, In Design"}
+              - {label: "Show on Home Page?", name: "featured", widget: "boolean", default: false, hint: "Turn on to feature this project on the homepage"}
+              - {label: "Short Description", name: "shortDescription", widget: "text", hint: "One line, shown on project cards"}
+              - {label: "Full Description", name: "description", widget: "text", hint: "Shown on the project's own page"}
+              - {label: "Cover Photo (main photo)", name: "coverImage", widget: "image", hint: "This is the one photo shown on the project card"}
               - label: "Gallery Photos"
                 name: "images"
                 widget: "list"
+                collapsed: true
                 field: {label: "Photo", name: "image", widget: "image"}
 
   - name: "settings"
@@ -67,13 +70,15 @@ collections:
               - label: "Philosophy Quotes (shown randomly on site)"
                 name: "philosophyQuotes"
                 widget: "list"
+                collapsed: true
                 fields:
                   - {label: "Quote", name: "quote", widget: "string"}
                   - {label: "Author", name: "author", widget: "string"}
-              - label: "Rotating Hero Titles (homepage heading, can use <em>word</em> for italics)"
+              - label: "Rotating Hero Titles (homepage heading)"
                 name: "heroTitles"
                 widget: "list"
-                field: {label: "Title", name: "title", widget: "string"}
+                collapsed: true
+                field: {label: "Title", name: "title", widget: "string", hint: "Wrap any word in <em>word</em> to italicize it"}
               - {label: "Founder Name", name: "founder", widget: "string"}
               - {label: "Founder Title", name: "founderTitle", widget: "string"}
               - {label: "Founded Year", name: "founded", widget: "number", value_type: "int"}
@@ -143,6 +148,7 @@ collections:
             name: "services"
             widget: "list"
             summary: "{{name}}"
+            collapsed: true
             fields:
               - {label: "ID (unique, lowercase, dashes only)", name: "id", widget: "string"}
               - {label: "Name", name: "name", widget: "string"}
@@ -161,6 +167,7 @@ collections:
             name: "awards"
             widget: "list"
             summary: "{{title}} ({{year}})"
+            collapsed: true
             fields:
               - {label: "Year", name: "year", widget: "number", value_type: "int"}
               - {label: "Award Title", name: "title", widget: "string"}
