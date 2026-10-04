@@ -1,0 +1,169 @@
+backend:
+  name: git-gateway
+  branch: main
+
+media_folder: "images/projects"
+public_folder: "/images/projects"
+
+site_url: https://mdarchitects.co.in
+display_url: https://mdarchitects.co.in
+
+locale: "en"
+
+collections:
+  - name: "projects"
+    label: "Projects"
+    label_singular: "Project"
+    files:
+      - name: "projects"
+        label: "All Projects"
+        file: "data/projects.json"
+        fields:
+          - label: "Projects"
+            name: "projects"
+            widget: "list"
+            summary: "{{title}} ({{category}})"
+            fields:
+              - {label: "Project ID (unique, lowercase, dashes only, e.g. sharma-bungalow)", name: "id", widget: "string"}
+              - {label: "Title", name: "title", widget: "string"}
+              - label: "Category"
+                name: "category"
+                widget: "select"
+                options:
+                  - {label: "Architecture", value: "architecture"}
+                  - {label: "Interior", value: "interior"}
+                  - {label: "Landscaping", value: "landscaping"}
+                  - {label: "Master Planning", value: "master-planning"}
+              - {label: "Category Label (shown on site)", name: "categoryLabel", widget: "string"}
+              - {label: "Year", name: "year", widget: "number", value_type: "int"}
+              - {label: "Location", name: "location", widget: "string"}
+              - {label: "Type (e.g. Private Residence)", name: "type", widget: "string"}
+              - {label: "Area (e.g. 2500 sq ft)", name: "area", widget: "string", required: false}
+              - {label: "Status", name: "status", widget: "string", default: "Completed"}
+              - {label: "Show on Home Page?", name: "featured", widget: "boolean", default: false}
+              - {label: "Short Description", name: "shortDescription", widget: "text"}
+              - {label: "Full Description", name: "description", widget: "text"}
+              - {label: "Cover Photo (main photo)", name: "coverImage", widget: "image"}
+              - label: "Gallery Photos"
+                name: "images"
+                widget: "list"
+                field: {label: "Photo", name: "image", widget: "image"}
+
+  - name: "settings"
+    label: "Site Settings"
+    files:
+      - name: "config"
+        label: "Studio, Contact & Social Info"
+        file: "data/config.json"
+        fields:
+          - label: "Studio"
+            name: "studio"
+            widget: "object"
+            fields:
+              - {label: "Studio Name", name: "name", widget: "string"}
+              - {label: "Short Name", name: "shortName", widget: "string"}
+              - {label: "Tagline", name: "tagline", widget: "string"}
+              - {label: "Tagline Attribution", name: "taglineAttribution", widget: "string"}
+              - label: "Philosophy Quotes (shown randomly on site)"
+                name: "philosophyQuotes"
+                widget: "list"
+                fields:
+                  - {label: "Quote", name: "quote", widget: "string"}
+                  - {label: "Author", name: "author", widget: "string"}
+              - label: "Rotating Hero Titles (homepage heading, can use <em>word</em> for italics)"
+                name: "heroTitles"
+                widget: "list"
+                field: {label: "Title", name: "title", widget: "string"}
+              - {label: "Founder Name", name: "founder", widget: "string"}
+              - {label: "Founder Title", name: "founderTitle", widget: "string"}
+              - {label: "Founded Year", name: "founded", widget: "number", value_type: "int"}
+              - {label: "Years in Practice (e.g. 6+)", name: "yearsInPractice", widget: "string"}
+              - {label: "Projects Completed (e.g. 200+)", name: "projectsCompleted", widget: "string"}
+              - {label: "Location", name: "location", widget: "string"}
+          - label: "Contact"
+            name: "contact"
+            widget: "object"
+            fields:
+              - {label: "Address Line 1", name: "addressLine1", widget: "string"}
+              - {label: "Address Line 2", name: "addressLine2", widget: "string"}
+              - {label: "City", name: "city", widget: "string"}
+              - {label: "State", name: "state", widget: "string"}
+              - {label: "Pincode", name: "pincode", widget: "string"}
+              - {label: "Country", name: "country", widget: "string"}
+              - {label: "Phone 1 (displayed, e.g. +91 83027 06692)", name: "phone1", widget: "string"}
+              - {label: "Phone 1 Raw (digits only with country code, e.g. 918302706692)", name: "phone1Raw", widget: "string"}
+              - {label: "Phone 1 is WhatsApp?", name: "phone1IsWhatsApp", widget: "boolean", default: true}
+              - {label: "Phone 2 (displayed)", name: "phone2", widget: "string"}
+              - {label: "Phone 2 Raw (digits only with country code)", name: "phone2Raw", widget: "string"}
+              - {label: "Email", name: "email", widget: "string"}
+              - {label: "Working Hours", name: "workingHours", widget: "string"}
+              - {label: "Google Maps Link", name: "mapsUrl", widget: "string"}
+          - label: "Social Links (leave blank if not used)"
+            name: "social"
+            widget: "object"
+            fields:
+              - {label: "Instagram", name: "instagram", widget: "string", required: false}
+              - {label: "Facebook", name: "facebook", widget: "string", required: false}
+              - {label: "LinkedIn", name: "linkedin", widget: "string", required: false}
+              - {label: "YouTube", name: "youtube", widget: "string", required: false}
+              - {label: "Behance", name: "behance", widget: "string", required: false}
+              - {label: "Pinterest", name: "pinterest", widget: "string", required: false}
+          - label: "SEO"
+            name: "seo"
+            widget: "object"
+            fields:
+              - label: "Keywords"
+                name: "keywords"
+                widget: "list"
+                field: {label: "Keyword", name: "keyword", widget: "string"}
+              - {label: "Meta Description", name: "metaDescription", widget: "text"}
+          - label: "Enquiry Form"
+            name: "inquiry"
+            widget: "object"
+            fields:
+              - {label: "Enquiries Go To (email)", name: "submitEmail", widget: "string"}
+              - label: "Form Fields"
+                name: "fields"
+                widget: "object"
+                fields:
+                  - {label: "Ask Project Type?", name: "projectType", widget: "boolean", default: true}
+                  - {label: "Ask Budget?", name: "budget", widget: "boolean", default: true}
+                  - {label: "Ask Timeline?", name: "timeline", widget: "boolean", default: true}
+                  - {label: "Ask Location?", name: "location", widget: "boolean", default: true}
+              - {label: "Auto-Reply Message", name: "autoReplyMessage", widget: "text"}
+
+  - name: "services"
+    label: "Services"
+    files:
+      - name: "services"
+        label: "All Services"
+        file: "data/services.json"
+        fields:
+          - label: "Services"
+            name: "services"
+            widget: "list"
+            summary: "{{name}}"
+            fields:
+              - {label: "ID (unique, lowercase, dashes only)", name: "id", widget: "string"}
+              - {label: "Name", name: "name", widget: "string"}
+              - {label: "Short Description", name: "shortDescription", widget: "string"}
+              - {label: "Full Description", name: "description", widget: "text"}
+              - {label: "Is this a project category? (has its own Architecture/Interior-style page)", name: "isProjectCategory", widget: "boolean", default: false}
+
+  - name: "awards"
+    label: "Awards"
+    files:
+      - name: "awards"
+        label: "All Awards"
+        file: "data/awards.json"
+        fields:
+          - label: "Awards"
+            name: "awards"
+            widget: "list"
+            summary: "{{title}} ({{year}})"
+            fields:
+              - {label: "Year", name: "year", widget: "number", value_type: "int"}
+              - {label: "Award Title", name: "title", widget: "string"}
+              - {label: "Organization", name: "organization", widget: "string"}
+              - {label: "Project / Recognition", name: "project", widget: "string"}
+              - {label: "Description", name: "description", widget: "text"}
