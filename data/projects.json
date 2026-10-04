@@ -1,6 +1,21 @@
 {
   "projects": [
     {
+      "shortDescription": "Architectural design for a private residence in Bhilwara.\n",
+      "coverImage": "/images/projects/img-20260708-wa0050.jpg",
+      "area": "1,500",
+      "featured": false,
+      "status": "Running",
+      "location": "Asind, Rajasthan",
+      "categoryLabel": "Architecture",
+      "title": "Naveen Ji Mewara",
+      "type": "Private Residence",
+      "id": "Mewara-House",
+      "description": "Architectural design for a private residence in Bhilwara.\n",
+      "year": 2026,
+      "category": "architecture"
+    },
+    {
       "shortDescription": "Architectural design of a farm house retreat on the outskirts of Bhilwara.",
       "coverImage": "images/projects/peace-farm-house-exterior/cover.jpg",
       "area": "",
@@ -276,21 +291,6 @@
       "description": "A completed interior design project by Mohit Dangi Architect in Bhilwara, Rajasthan. The gallery showcases the finished interior spaces delivered for this project.",
       "year": 2026,
       "category": "interior"
-    },
-    {
-      "shortDescription": "Architectural design for a private residence in Bhilwara.\n",
-      "coverImage": "/images/projects/img-20260708-wa0050.jpg",
-      "area": "1,500",
-      "featured": false,
-      "status": "Running",
-      "location": "Asind, Rajasthan",
-      "categoryLabel": "Architecture",
-      "title": "Naveen Ji Mewara",
-      "type": "Private Residence",
-      "id": "Mewara-House",
-      "description": "Architectural design for a private residence in Bhilwara.\n",
-      "year": 2026,
-      "category": "architecture"
     },
     {
       "shortDescription": "Interior design project completed by Mohit Dangi Architect.",
