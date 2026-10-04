@@ -1,0 +1,60 @@
+{
+  "services": [
+    {
+      "id": "architecture",
+      "name": "Architecture",
+      "shortDescription": "Buildings designed for place, climate, and life.",
+      "description": "From intimate private residences to corporate offices and commercial buildings — buildings that respond honestly to their site, climate, and the people who use them. Every project starts with the site and ends with the door handle.",
+      "isProjectCategory": true
+    },
+    {
+      "id": "interior",
+      "name": "Interior Designing",
+      "shortDescription": "Spaces that feel as good as they look.",
+      "description": "Interiors built around material honesty, considered light, and the way spaces are actually lived in. Custom furniture design, material selection, lighting plans, and finishes worked into a single coherent narrative.",
+      "isProjectCategory": true
+    },
+    {
+      "id": "exterior",
+      "name": "Exterior Design",
+      "shortDescription": "Facades and elevations with character.",
+      "description": "Facade design, elevation development, material studies, and exterior detailing. Whether refreshing an existing structure or designing a new one, the exterior is treated as the building's first conversation with the world.",
+      "isProjectCategory": false
+    },
+    {
+      "id": "landscaping",
+      "name": "Landscaping",
+      "shortDescription": "Outdoors that complete the architecture.",
+      "description": "Site-responsive landscape design — native vegetation, passive water management, hardscape detailing, and outdoor living spaces. Landscape and architecture treated as one continuous design problem.",
+      "isProjectCategory": true
+    },
+    {
+      "id": "master-planning",
+      "name": "Master Planning",
+      "shortDescription": "Townships, campuses, and large developments.",
+      "description": "Master planning for residential townships, institutional campuses, and mixed-use developments. Organized around community life, climate, and the long arc of time — from concept through phased delivery.",
+      "isProjectCategory": true
+    },
+    {
+      "id": "3d-modelling",
+      "name": "3D Modelling & Rendering",
+      "shortDescription": "Photoreal visualization, before brick is laid.",
+      "description": "High-quality 3D models and photorealistic renderings that let clients walk through their project before construction begins. Useful for client approvals, marketing, and design validation.",
+      "isProjectCategory": false
+    },
+    {
+      "id": "vaastu",
+      "name": "Vaastu Consultancy",
+      "shortDescription": "Traditional Vaastu, modern sensibility.",
+      "description": "Vaastu Shastra principles integrated into contemporary plans — for clients who want their home or workplace to follow Vaastu without sacrificing modern design. Honest, practical, non-dogmatic consultation.",
+      "isProjectCategory": false
+    },
+    {
+      "id": "turnkey",
+      "name": "Turnkey Solutions & Site Supervision",
+      "shortDescription": "From first sketch to final handover.",
+      "description": "End-to-end project delivery — design, drawings, vendor coordination, site supervision, and final handover. The studio takes full responsibility so the client deals with one team from start to finish.",
+      "isProjectCategory": false
+    }
+  ]
+}

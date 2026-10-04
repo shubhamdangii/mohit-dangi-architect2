@@ -1,0 +1,87 @@
+{
+  "studio": {
+    "name": "Mohit Dangi Architect",
+    "shortName": "M D A",
+    "tagline": "Recognizing the need is the primary condition for architects and planners.",
+    "taglineAttribution": "— Mohit Dangi",
+    "philosophyQuotes": [
+      {
+        "quote": "Architecture is the art of how to waste space.",
+        "author": "— Philip Johnson"
+      },
+      {
+        "quote": "The details are not the details. They make the design.",
+        "author": "— Charles Eames"
+      },
+      {
+        "quote": "Form ever follows function.",
+        "author": "— Louis Sullivan"
+      },
+      {
+        "quote": "Space is the breath of art.",
+        "author": "— Frank Lloyd Wright"
+      },
+      {
+        "quote": "A great building must begin with the unmeasurable, pass through measurable means when it is being designed, and in the end must be unmeasurable.",
+        "author": "— Louis Kahn"
+      }
+    ],
+    "heroTitles": [
+      "Recognizing the need is the <em>primary condition</em> for architects and planners.",
+      "Architecture begins where <em>engineering ends</em>.",
+      "We shape our buildings; thereafter <em>they shape us</em>.",
+      "Design is not just what it looks like. Design is <em>how it works</em>.",
+      "Every great design begins with an even <em>better story</em>."
+    ],
+    "founder": "Mohit Dangi",
+    "founderTitle": "Principal Architect",
+    "founded": 2020,
+    "yearsInPractice": "6+",
+    "projectsCompleted": "200+",
+    "location": "Bhilwara, Rajasthan"
+  },
+  "contact": {
+    "addressLine1": "Shop No - 4, Charbuja Tower",
+    "addressLine2": "Sirki Mohalla, Sanjay Colony",
+    "city": "Bhilwara",
+    "state": "Rajasthan",
+    "pincode": "311001",
+    "country": "India",
+    "phone1": "+91 83027 06692",
+    "phone1Raw": "918302706692",
+    "phone1IsWhatsApp": true,
+    "phone2": "+91 92525 17172",
+    "phone2Raw": "919252517172",
+    "email": "mdarchitects.connect@gmail.com",
+    "workingHours": "Monday to Saturday, 10:00 AM – 7:00 PM",
+    "mapsUrl": "https://maps.app.goo.gl/EoG9yQwAbsTN1HG3A"
+  },
+  "social": {
+    "instagram": "https://instagram.com/mohitdangi.architect",
+    "facebook": "",
+    "linkedin": "",
+    "youtube": "",
+    "behance": "",
+    "pinterest": ""
+  },
+  "seo": {
+    "keywords": [
+      "architect in Bhilwara",
+      "interior designer Rajasthan",
+      "residential architect Rajasthan",
+      "luxury home design Bhilwara",
+      "master planning consultant"
+    ],
+    "metaDescription": "Mohit Dangi Architect — Bhilwara-based studio specializing in contemporary architecture, interior design, landscaping, master planning, and Vaastu consultancy across Rajasthan and India."
+  },
+  "inquiry": {
+    "submitEmail": "mdarchitects.connect@gmail.com",
+    "fields": {
+      "projectType": true,
+      "budget": true,
+      "timeline": true,
+      "location": true
+    },
+    "autoReplyMessage": "Thank you for reaching out. The studio will review your enquiry and respond within 48 hours."
+  }
+}

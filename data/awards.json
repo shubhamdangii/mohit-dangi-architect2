@@ -1,0 +1,32 @@
+{
+  "awards": [
+    {
+      "year": 2024,
+      "title": "Architect of the Year — Residential",
+      "organization": "India Design Awards",
+      "project": "Featured Project",
+      "description": "Recognized for excellence in residential architecture and contextual design across Rajasthan."
+    },
+    {
+      "year": 2024,
+      "title": "Best Residential Architect — Bhilwara",
+      "organization": "Rajasthan Architects Forum",
+      "project": "Studio Recognition",
+      "description": "Honored for thoughtful, climate-responsive residential design in the Bhilwara region."
+    },
+    {
+      "year": 2023,
+      "title": "Emerging Practice of the Year",
+      "organization": "Architecture + Design Magazine",
+      "project": "Studio Recognition",
+      "description": "Selected as one of the rising architecture studios producing notable work in Tier-2 Indian cities."
+    },
+    {
+      "year": 2023,
+      "title": "Commercial Interior of the Year — Banquet",
+      "organization": "Inside Outside Magazine Awards",
+      "project": "Royal Parinay",
+      "description": "Awarded for material restraint and cultural sensitivity in a hospitality interior."
+    }
+  ]
+}
