@@ -1,12 +1,64 @@
-<!doctype html>
-<html>
+<!DOCTYPE html>
+<html lang="en">
 <head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Mohit Dangi Architect — Content Manager</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mohit Dangi Architect — Bhilwara, Rajasthan</title>
+  <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
+
+  <section class="hero">
+    <div class="hero-image" id="hero-image">
+      <!-- Sketch slideshow injected by JS -->
+    </div>
+    <div class="hero-content">
+      <h1 class="hero-title" id="hero-title">
+        Recognizing the need is the primary condition for <em>architects and planners</em>.
+      </h1>
+      <div class="hero-meta">
+        <strong>Mohit Dangi Architect</strong>
+        Architecture · Interior · Landscape · Master Planning
+      </div>
+    </div>
+    <div class="sketch-dots" id="sketch-dots"></div>
+    <div class="hero-scroll">Scroll</div>
+  </section>
+
+  <section class="quick-services" id="quick-services"></section>
+
+  <section class="section">
+    <div class="section-header">
+      <div class="section-header-left">
+        <div class="eyebrow">Selected Work</div>
+        <h2 class="section-title">Recent <em>projects</em>.</h2>
+      </div>
+      <a href="architecture.html" class="section-link">View All Projects →</a>
+    </div>
+    <div class="project-grid" id="home-projects">
+      <div class="loading">Loading projects…</div>
+    </div>
+  </section>
+
+  <section class="philosophy">
+    <div class="philosophy-quote" id="philosophy-quote"></div>
+    <div class="philosophy-author" id="philosophy-author"></div>
+  </section>
+
+  <script src="js/main.js"></script>
+
+  <!-- Netlify Identity: handles invite/password-reset links that land here -->
   <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
-  <script src="https://unpkg.com/decap-cms@^3.0.0/dist/decap-cms.js"></script>
+  <script>
+    if (window.netlifyIdentity) {
+      window.netlifyIdentity.on("init", function (user) {
+        if (!user) {
+          window.netlifyIdentity.on("login", function () {
+            document.location.href = "/admin/";
+          });
+        }
+      });
+    }
+  </script>
 </body>
 </html>
