@@ -2,13 +2,18 @@
   "projects": [
     {
       "shortDescription": "Architectural design for a private residence in Bhilwara.\n",
-      "coverImage": "/images/projects/img-20260708-wa0050.jpg",
+      "coverImage": "/images/projects/whatsapp-image-2026-10-06-at-3.41.06-pm-1-.jpeg",
       "area": "1,500",
       "featured": true,
       "status": "Running",
       "location": "Asind, Rajasthan",
       "categoryLabel": "Architecture",
       "title": "Naveen Ji Mewara",
+      "images": [
+        "/images/projects/whatsapp-image-2026-10-06-at-3.41.06-pm.jpeg",
+        "/images/projects/whatsapp-image-2026-10-06-at-3.41.06-pm-2-.jpeg",
+        "/images/projects/whatsapp-image-2026-10-06-at-3.41.06-pm-1-.jpeg"
+      ],
       "type": "Private Residence",
       "id": "Mewara-House",
       "description": "Architectural design for a private residence in Bhilwara.\n",
@@ -233,6 +238,26 @@
       "description": "Exterior design for the Jain family bungalow.",
       "year": 2025,
       "category": "architecture"
+    },
+    {
+      "shortDescription": "Design Style: Contemporary Minimal | Warm Modern",
+      "coverImage": "/images/projects/whatsapp-image-2026-10-06-at-3.23.38-pm.jpeg",
+      "area": "250 Sq.ft.",
+      "featured": true,
+      "status": "Completed",
+      "location": "Chennai",
+      "categoryLabel": "Interior Design",
+      "title": "Raghav Ji",
+      "images": [
+        "/images/projects/whatsapp-image-2026-10-06-at-3.23.38-pm-2-.jpeg",
+        "/images/projects/whatsapp-image-2026-10-06-at-3.23.38-pm-1-.jpeg",
+        "/images/projects/whatsapp-image-2026-10-06-at-3.23.38-pm.jpeg"
+      ],
+      "type": "Studio Apartment",
+      "id": "Interior Raghav Ji Chennai",
+      "description": "A contemporary studio interior designed with a warm, minimal and sophisticated aesthetic, combining the bedroom, kitchenette and living functions within a compact yet visually spacious layout. The design uses a neutral material palette, warm timber accents and carefully integrated lighting to create a calm and premium atmosphere.",
+      "year": 2023,
+      "category": "interior"
     },
     {
       "shortDescription": "Interior design project completed by Mohit Dangi Architect.",
