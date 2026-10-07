@@ -23,6 +23,7 @@
       "category": "architecture"
     },
     {
+      "shortDescription": "Design Style: Contemporary Minimal | Warm Modern",
       "coverImage": "/images/projects/modern-warmly-lit-residence-at-dusk.png",
       "area": "4,100 Sq.ft",
       "featured": true,
@@ -37,6 +38,7 @@
       ],
       "type": "Private Bungalow",
       "id": "Sisodiya House",
+      "description": "A contemporary studio interior designed with a warm, minimal and sophisticated aesthetic, combining the bedroom, kitchenette and living functions within a compact yet visually spacious layout. The design uses a neutral material palette, warm timber accents and carefully integrated lighting to create a calm and premium atmosphere.",
       "year": 2026,
       "category": "architecture"
     },
@@ -82,7 +84,7 @@
     },
     {
       "shortDescription": "Bungalow design for the Agarwal family in Bhilwara.",
-      "coverImage": "/images/projects/photorealistic-ground-floor-house-plan.png",
+      "coverImage": "/images/projects/whatsapp-image-2026-04-14-at-7.23.18-pm.jpeg",
       "area": "7,000 Sq.ft.",
       "featured": false,
       "secondaryCategories": [],
@@ -91,7 +93,7 @@
       "categoryLabel": "Architecture",
       "title": "Agarwal Bungalow",
       "images": [
-        "images/projects/agarwal-bungalow/1.jpg"
+        "/images/projects/whatsapp-image-2026-10-07-at-11.42.55-am.jpeg"
       ],
       "type": "Private Bungalow",
       "id": "agarwal-bungalow",
