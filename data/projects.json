@@ -3,21 +3,40 @@
     {
       "shortDescription": "Architectural design for a private residence in Bhilwara.\n",
       "coverImage": "/images/projects/whatsapp-image-2026-10-06-at-3.41.06-pm-1-.jpeg",
-      "area": "1,500",
+      "area": "10,500",
       "featured": true,
       "status": "Running",
       "location": "Asind, Rajasthan",
-      "categoryLabel": "Architecture",
+      "categoryLabel": "Architecture + Interior Design",
       "title": "Naveen Ji Mewara",
       "images": [
         "/images/projects/whatsapp-image-2026-10-06-at-3.41.06-pm.jpeg",
         "/images/projects/whatsapp-image-2026-10-06-at-3.41.06-pm-2-.jpeg",
         "/images/projects/whatsapp-image-2026-10-06-at-3.41.06-pm-1-.jpeg",
-        "/images/projects/whatsapp-image-2026-10-06-at-3.41.06-pm.jpeg"
+        "/images/projects/whatsapp-image-2026-10-06-at-3.41.06-pm.jpeg",
+        "/images/projects/whatsapp-image-2026-10-07-at-12.03.09-pm.jpeg"
       ],
       "type": "Private Residence",
       "id": "Mewara-House",
       "description": "Architectural design for a private residence in Bhilwara.\n",
+      "year": 2026,
+      "category": "architecture"
+    },
+    {
+      "coverImage": "/images/projects/modern-warmly-lit-residence-at-dusk.png",
+      "area": "4,100 Sq.ft",
+      "featured": true,
+      "status": "Completed",
+      "location": "Kanchipuram Bhilwara",
+      "categoryLabel": "Architecture + Interior Design",
+      "title": "Narendra Ji Sisodiya",
+      "images": [
+        "/images/projects/modern-luxury-villa-at-twilight.png",
+        "/images/projects/modern-warmly-lit-residence-at-dusk.png",
+        "/images/projects/whatsapp-image-2026-10-07-at-11.42.55-am-1-.jpeg"
+      ],
+      "type": "Private Bungalow",
+      "id": "Sisodiya House",
       "year": 2026,
       "category": "architecture"
     },
@@ -185,7 +204,7 @@
     },
     {
       "shortDescription": "Bungalow design for the Agarwal family in Bhilwara.",
-      "coverImage": "images/projects/agarwal-bungalow/cover.jpg",
+      "coverImage": "/images/projects/photorealistic-ground-floor-house-plan.png",
       "area": "7,000 Sq.ft.",
       "featured": false,
       "secondaryCategories": [],
@@ -237,6 +256,28 @@
       "type": "Private Bungalow",
       "id": "jain-pushpendra-exterior",
       "description": "Exterior design for the Jain family bungalow.",
+      "year": 2025,
+      "category": "architecture"
+    },
+    {
+      "shortDescription": "Exterior architecture and elevations for the Soni family residence.",
+      "coverImage": "images/projects/soni-house-exterior/cover.jpg",
+      "area": "4,000 Sq.ft.",
+      "featured": false,
+      "secondaryCategories": [],
+      "status": "Completed",
+      "location": "Bharatpur, Rajasthan",
+      "categoryLabel": "Architecture",
+      "title": "Ketan ji Soni House ",
+      "images": [
+        "images/projects/soni-house-exterior/1.jpg",
+        "images/projects/soni-house-exterior/2.jpg",
+        "images/projects/soni-house-exterior/3.jpg",
+        "images/projects/soni-house-exterior/4.jpg"
+      ],
+      "type": "Private Residence",
+      "id": "Soni-house-exterior",
+      "description": "Exterior architecture and elevations for the Soni family residence.",
       "year": 2025,
       "category": "architecture"
     },
@@ -537,28 +578,6 @@
       "description": "A 280 sq ft courtyard planning project for Rajnesh Ji's private residence in Kholpur, Rajasthan. The design transforms the central courtyard into a calm, functional outdoor space — integrating planting, paving, and seating that respond to the residential context and Rajasthan's climate.",
       "year": 2020,
       "category": "landscaping"
-    },
-    {
-      "shortDescription": "Exterior architecture and elevations for the Soni family residence.",
-      "coverImage": "images/projects/soni-house-exterior/cover.jpg",
-      "area": "4,000 Sq.ft.",
-      "featured": false,
-      "secondaryCategories": [],
-      "status": "Completed",
-      "location": "Bharatpur, Rajasthan",
-      "categoryLabel": "Architecture",
-      "title": "Ketan ji Soni House ",
-      "images": [
-        "images/projects/soni-house-exterior/1.jpg",
-        "images/projects/soni-house-exterior/2.jpg",
-        "images/projects/soni-house-exterior/3.jpg",
-        "images/projects/soni-house-exterior/4.jpg"
-      ],
-      "type": "Private Residence",
-      "id": "Soni-house-exterior",
-      "description": "Exterior architecture and elevations for the Soni family residence.",
-      "year": 2025,
-      "category": "architecture"
     }
   ]
 }
