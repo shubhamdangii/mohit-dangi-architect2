@@ -491,6 +491,21 @@
       "description": "A 280 sq ft courtyard planning project for Rajnesh Ji's private residence in Kholpur, Rajasthan. The design transforms the central courtyard into a calm, functional outdoor space — integrating planting, paving, and seating that respond to the residential context and Rajasthan's climate.",
       "year": 2020,
       "category": "landscaping"
+    },
+    {
+      "shortDescription": "MOdern Interior Design",
+      "coverImage": "https://cloud.chaos.com/collaboration/n/3wEtY5dNMf6qKdNScqmCAx?t=pan",
+      "area": "1200 Sq.Ft.",
+      "featured": true,
+      "status": "Completed",
+      "location": "Bhilwara",
+      "categoryLabel": "Interior Design",
+      "title": "Law Firm - Ashutosh Ji Tripati",
+      "type": "Commercial",
+      "id": "Ashutosh Ji Tripati",
+      "description": "MOdern Interior Design",
+      "year": 2026,
+      "category": "interior"
     }
   ]
 }
