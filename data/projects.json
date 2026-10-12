@@ -374,7 +374,7 @@
     },
     {
       "shortDescription": "Master planning for a residential estate development.",
-      "coverImage": "images/projects/mewara-estate/cover.jpg",
+      "coverImage": "/images/projects/whatsapp-image-2026-10-12-at-7.44.23-pm.jpeg",
       "area": "",
       "featured": false,
       "secondaryCategories": [],
@@ -383,11 +383,11 @@
       "categoryLabel": "Master Planning",
       "title": "Mewara Estate",
       "images": [
+        "/images/projects/whatsapp-image-2026-10-12-at-7.44.23-pm.jpeg",
         "images/projects/mewara-estate/1.jpg",
         "images/projects/mewara-estate/2.jpg",
         "images/projects/mewara-estate/3.jpg",
-        "images/projects/mewara-estate/4.jpg",
-        "images/projects/mewara-estate/5.jpg"
+        "images/projects/mewara-estate/4.jpg"
       ],
       "type": "Residential Estate",
       "id": "mewara-estate",
